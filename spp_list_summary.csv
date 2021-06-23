@@ -1,17 +1,17 @@
-Locality,Species,Genus,Family,Higher,Total
-Antarctica,137,8,1,16,162
-Punta Arenas,112,20,0,0,132
-Puerto Madryn,333,182,0,37,552
-Concepcion,417,53,7,25,502
-Montemar,163,6,0,4,173
-Arraial do Cabo,1050,68,18,15,1151
-Costa Das Algas,386,68,24,0,478
-Santa Cruz,46,33,1,0,80
-Fernando de Noronha,125,75,8,9,217
-Isla Gorgona,231,136,7,0,374
-Massachusetts,97,31,0,0,128
-Biddeford,57,6,0,0,63
-Giant Stairs,68,12,0,0,80
-Chamberlain,73,3,0,0,76
-Grindstone,34,19,0,0,53
-N. Maine,112,35,0,0,147
+Locality,Higher,Family,Genus,Species,Total
+Antarctica,16,1,8,137,162
+Punta Arenas,0,0,20,112,132
+Puerto Madryn,37,0,182,333,552
+Concepcion,25,7,53,417,502
+Montemar,4,0,6,163,173
+Arraial do Cabo,15,18,68,1050,1151
+Costa Das Algas,0,24,68,386,478
+Santa Cruz,0,1,33,46,80
+Fernando de Noronha,9,8,75,125,217
+Isla Gorgona,0,7,136,231,374
+Massachusetts,0,0,31,97,128
+Biddeford,0,0,6,57,63
+Giant Stairs,0,0,12,68,80
+Chamberlain,0,0,3,73,76
+Grindstone,0,0,19,34,53
+N. Maine,0,0,35,112,147
